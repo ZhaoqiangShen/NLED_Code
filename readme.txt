@@ -27,7 +27,7 @@ If models are already saved, you need only run
 
 
 ---
-Note：The current version of training code is being optimized, it may lead to slight performance difference from that of paper.
+Note：The training code is being optimized and the current version may lead to slight performance difference from that of paper.
 
 
 
