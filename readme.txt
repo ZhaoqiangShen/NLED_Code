@@ -26,6 +26,9 @@ If models are already saved, you need only run
 >>test(model_path)
 
 
+---
+Note：The current version of training code is being optimized, it may lead to slight performance difference from that of paper.
+
 
 
 
