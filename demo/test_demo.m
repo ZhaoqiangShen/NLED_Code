@@ -1,5 +1,5 @@
 % images
-img_dir 	= '../Test/68imgs';
+img_dir 	= './68imgs';
 img_file    = dir([img_dir, '/*.png']);
 img_num     = length(img_file);
 
